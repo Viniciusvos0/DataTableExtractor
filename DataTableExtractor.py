@@ -2,7 +2,7 @@ import os
 import pandas as pd  # Trabalha com tabelas
 import glob  # Encontra o nome dos arquivos no caminho especificado e lista arquivos pelo nome
 from pyxlsb import open_workbook as open_xlsb  # Abrir aquivos no formato binario
-import os.path  # Veifica o caminho de um diretório ou arquivo
+import os.path  # Veifica o caminho de um diretório e arquivos
 from datetime import datetime  # Trabalha com variáveis de tempo
 
 
@@ -139,5 +139,5 @@ pasta_meses = os.listdir(pasta_raiz)
 
 for pasta_mes in pasta_meses:
     processar_pasta_mes(pasta_mes)
-    
+
 print(f"Atualização finalizada com sucesso")
