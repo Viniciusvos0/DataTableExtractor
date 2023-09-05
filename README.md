@@ -6,9 +6,15 @@ insights por parte dos atores responsáveis pela gestão operacional e estratég
 
 O desenvolvimento deste script utiliza recursos da linguagem python e suas bibliotecas e frameworks. 
 O script utiliza as seguintes ferramentas:
+
 Recursos da linguagem python
+
 Biblioteca Pandas
+
 Biblioteca Pyxlsb
+
 Módulo OS
+
 Módulo Glob
+
 Módulo Datetime
