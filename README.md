@@ -1,2 +1,14 @@
 # DataTableExtractor
-O DataTableExtractor é script em python que manipula cetenas de tabelas extraindo delas dados importantes para analise de dados e insights para o negócio da empresa. A empresa disponibilizou um verdadeiro datalake porém dividido em vários arquivos de Excel, algo que não é muito prático para extrair grande volume de dados e produzir datawarehouses. 
+O DataTableExtractor é um projeto em python que extrai dados de centenas
+de tabelas xlsx executando apenas uma vez.
+Com essas informações alimenta uma base de dados que servirá para montar dashboards empenhando assim
+insights por parte dos atores responsáveis pela gestão operacional e estratégica da empresa.
+
+O desenvolvimento deste script utiliza recursos da linguagem python e suas bibliotecas e frameworks. 
+O script utiliza as seguintes ferramentas:
+Recursos da linguagem python
+Biblioteca Pandas
+Biblioteca Pyxlsb
+Módulo OS
+Módulo Glob
+Módulo Datetime
