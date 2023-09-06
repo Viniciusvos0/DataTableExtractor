@@ -1,6 +1,6 @@
 # DataTableExtractor
 O DataTableExtractor é um projeto em python que extrai dados de centenas
-de tabelas xlsx executando apenas uma vez.
+de tabelas de Excel executando apenas uma vez.
 Com essas informações alimenta uma base de dados que servirá para montar dashboards empenhando assim
 insights por parte dos atores responsáveis pela gestão operacional e estratégica da empresa.
 
